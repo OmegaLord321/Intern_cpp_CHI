@@ -1,0 +1,3 @@
+/media/omega/46340D93340D8761/code/CHI/Intern_cpp_CHI/CMakeFiles/rebuild_cache.dir
+/media/omega/46340D93340D8761/code/CHI/Intern_cpp_CHI/CMakeFiles/introduction_project_name.dir
+/media/omega/46340D93340D8761/code/CHI/Intern_cpp_CHI/CMakeFiles/edit_cache.dir
